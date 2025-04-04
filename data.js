@@ -2296,6 +2296,13 @@ var tabledata = [
  last: "20240926",
  vers: "8.1",
  desc: "Signature Maker Plugin for IDA Pro 8.1."},
+ 
+ {name: "IDA Pro SigMaker (Python)",
+  url: "https://github.com/mahmoudimus/ida-pysigmaker",
+  src: "python",
+  last: "20250404",
+  vers: "1.1.2",
+  desc: "A maintained cross-platform port of IDA-Pro-SigMaker to Python for IDA Pro 9.0+"},
 
 {name: "IDA Pro Solarized Theme",
  url: "https://github.com/blue-devil/IDA-Pro-Solarized-Theme",
